@@ -7,6 +7,8 @@ A set of libraries allow easy install wizard support for applications build usin
 
 Note: Not all work is released to the public as of yet.
 
+See example.php for usage information.
+
 Additional Enchilada Libraries
 ------------------------------
 
