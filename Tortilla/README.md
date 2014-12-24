@@ -7,7 +7,8 @@ A set of libraries allow easy install wizard support for applications build usin
 
 Note: Not all work is released to the public as of yet.
 
-See example.php for usage information.
+See example.php for a demo.
+See http://www.unibia.com/unibianet/developer/installation-and-configuration-management-enchilada-application-framework for usage information.
 
 Additional Enchilada Libraries
 ------------------------------
