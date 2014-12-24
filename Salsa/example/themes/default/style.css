@@ -1,0 +1,14 @@
+.heading-style {
+	color: blue;
+}
+#copyright{
+	font-size: 20px; 
+	text-align: left;
+}
+#container{
+	width:600px;
+}
+div.clear {
+    clear: both;
+    line-height: 0;
+}
